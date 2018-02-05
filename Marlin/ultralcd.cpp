@@ -1291,7 +1291,7 @@ void kill_screen(const char* lcd_msg) {
     //
     // Disable Steppers
     //
-    MENU_ITEM(gcode, MSG_DISABLE_STEPPERS, PSTR("M84"));
+    MENU_ITEM(gcode, MSG_DISABLE_STEPPERS, PSTR("M84 XY"));
 
     //
     // Preheat PLA
