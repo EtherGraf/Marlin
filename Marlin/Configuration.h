@@ -322,9 +322,9 @@
   //#define  DEFAULT_Ki 3.56
   //#define  DEFAULT_Kd 64.67
 
-  #define  DEFAULT_Kp 25,45
+  #define  DEFAULT_Kp 25.45
   #define  DEFAULT_Ki 2.52
-  #define  DEFAULT_Kd 62,55
+  #define  DEFAULT_Kd 62.55
 
   // MakerGear
   //#define  DEFAULT_Kp 7.0
